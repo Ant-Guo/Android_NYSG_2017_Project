@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LockE</string>
+    <string name="Scan">Scan</string>
+    <string name="LED">LED</string>
+    <string name="BluetoothDevices">Bluetooth Devices</string>
+
+    <string name="motormovements">Controls</string>
+    <string name="BTbutton">Bluetooth</string>
+    <string name="Forward">Forward</string>
+    <string name="RotateLeft">Rotate Left</string>
+    <string name="RotateRight">Rotate Right</string>
+    <string name="Reverse">Reverse</string>
+    <string name="Brake">Brake</string> />
+    <string name="Injured">Injured</string>
+</resources>
